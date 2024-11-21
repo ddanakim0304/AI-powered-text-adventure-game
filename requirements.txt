@@ -1,0 +1,7 @@
+# requirements file
+# sandbox had python 3.10
+
+pydantic==2.8.2
+gradio==4.44.1
+transformers==4.31.0
+torch==2.0.1
