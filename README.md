@@ -1,7 +1,8 @@
 # Birdy's Journey: An AI-Powered Text Adventure Game
+### Read my [Medium post](https://medium.com/@ddanakim0304/part-1-crafting-a-text-adventure-game-with-llms-in-just-6-hours-bb415ebbb67a) where I explained development process, explain the code in detail, and share insights from this rapid 6-hour project!
+<img width="1133" alt="Screenshot 2024-11-22 at 6 05 22 PM" src="https://github.com/user-attachments/assets/31d1b05d-9fc1-4339-8beb-022a29e738cd">
 
 An AI-powered text adventure where you step into the wings of Birdy, the last Slender-billed Curlew.
-<img width="1133" alt="Screenshot 2024-11-22 at 6 05 22 PM" src="https://github.com/user-attachments/assets/31d1b05d-9fc1-4339-8beb-022a29e738cd">
 
 ## The Story
 
@@ -25,13 +26,3 @@ Leveraging **Large Language Models (LLMs)** and the concept of **Hierarchical Co
 - **Dynamic Storytelling**: The game's narrative evolves with each decision you make.
 - **Game State Management**: Keeps track of your interactions, inventory, and relationships.
 - **Interactive NPCs**: Engage with other creatures, each with their own personalities and stories.
-
-## Dive Deeper
-
-Interested in how it all comes together? Read my [Medium post](https://medium.com/@ddanakim0304/part-1-crafting-a-text-adventure-game-with-llms-in-just-6-hours-bb415ebbb67a) where I delve into the development process, explain the code in detail, and share insights from this rapid 6-hour project.
-
-## Stay Tuned
-
-This is just the beginning! I plan to expand the game, adding more depth to Birdy's world and her interactions. Feedback and contributions are welcome.
-
-[**Read the full story and code explanation on Medium »**](#)
