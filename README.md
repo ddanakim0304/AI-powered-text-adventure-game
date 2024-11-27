@@ -1,6 +1,7 @@
 # Birdy's Journey: An AI-Powered Text Adventure Game
 
-*An AI-powered text adventure where you step into the wings of Birdy, the last Slender-billed Curlew.*
+An AI-powered text adventure where you step into the wings of Birdy, the last Slender-billed Curlew.
+<img width="988" alt="Screenshot 2024-11-22 at 6 05 48 PM" src="https://github.com/user-attachments/assets/d34c3b36-e3b0-4c97-97b0-b4a5f3823e07">
 
 ## The Story
 
